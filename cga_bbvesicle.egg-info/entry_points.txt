@@ -1,0 +1,3 @@
+[crease_ga.plugins]
+bbvesicle = cga_bbvesicle.scatterer_generator:scatterer_generator
+

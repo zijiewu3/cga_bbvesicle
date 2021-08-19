@@ -1,0 +1,7 @@
+setup.py
+cga_bbvesicle.egg-info/PKG-INFO
+cga_bbvesicle.egg-info/SOURCES.txt
+cga_bbvesicle.egg-info/dependency_links.txt
+cga_bbvesicle.egg-info/entry_points.txt
+cga_bbvesicle.egg-info/requires.txt
+cga_bbvesicle.egg-info/top_level.txt
